@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aswanth2708
-- 👀 I’m interested in front end
+- 👀 I’m interested in frontend
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
